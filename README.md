@@ -27,10 +27,15 @@ I have tries to implement the given application in given time in the examination
 \
 Have deployed this application in <b> Netlify </b>
 \
-Click the link to open the application [https://splendorous-brigadeiros-d53ea5.netlify.app/](https://melodious-blancmange-757c13.netlify.app/)
+Click the link to open the application [Click here](https://melodious-blancmange-757c13.netlify.app/)
 \
 (Some parts of the application are not working correctly in the hosted website better run by downloading the zip file)
 \
 \
 <b>_Some of the SnapShots are as follows_</b>
+![Screenshot (346)](https://user-images.githubusercontent.com/72604642/182541378-b7316543-b6f3-4eb3-bfc4-6e797095206e.png)
+
+![Screenshot (347)](https://user-images.githubusercontent.com/72604642/182541409-8e614c76-3b6d-49ce-b73b-ad3c00f01471.png)
+
+![Screenshot (348)](https://user-images.githubusercontent.com/72604642/182541445-0bad5691-6300-403b-838e-63e93b6b0eac.png)
 
