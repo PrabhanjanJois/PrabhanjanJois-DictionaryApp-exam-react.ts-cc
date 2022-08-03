@@ -1,7 +1,7 @@
 # Dictionary Application 
 
 Hi I am Prabhanjan jois, I have completed my Computer Science Engineering at SDM Institute of technology, Ujire [Karnataka]\
-I have tries to implement the given application in given time in the examination and I have been delighted to get selected for the <b>Cognitive Clouds's</b> and found these assignments quite intersting.
+I have tried to implement the given application in given short time at the examination and I have been delighted to get selected for the <b>Cognitive Clouds's</b> and found these assignments quite intersting.
 
 
 \
