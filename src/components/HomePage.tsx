@@ -48,7 +48,7 @@ const HomePage = () => {
           placeholder="Enter any word.."
         />
         <button onClick={getDictonaryWords} className="button-33">
-          Search
+         | Search |
         </button>
       </div>
       <div className="display">
